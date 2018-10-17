@@ -1,3 +1,3 @@
 require_relative './current_age_for_birth_year.rb'
 
-puts "What year "
+puts "What year were you born?"
