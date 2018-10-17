@@ -1,1 +1,3 @@
-require_relative './current_age_for_birth_year'
+require_relative './current_age_for_birth_year.rb'
+
+puts 
